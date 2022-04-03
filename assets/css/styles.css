@@ -246,12 +246,12 @@ section {
     position: relative;
 }
 
-/* LED Wall Hover Styling */
+/* Work-one Hover Styling */
 .work-one:hover {
     opacity: 75%;
 }
 
-/* Calculator Image Styling */
+/* Work-two Image Styling */
 .work-two {
     background-image: url("../images/shutterstock_152461202_thumb.jpg");
     background-size: cover;
