@@ -14,7 +14,7 @@
   ## Installation 
   No Installation is necessary.
   ## Usage 
-  The usage of this application should only be to view my portfolio.![Deployed Application.](https://jcode5577.github.io/John-Hamilton-Professional-Portfolio/)
+  The usage of this application should only be to view my portfolio.[Deployed Application.](https://jcode5577.github.io/John-Hamilton-Professional-Portfolio/)
   ## License 
   This project is license under MIT
   ## Contributing 
